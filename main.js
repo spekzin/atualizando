@@ -9,7 +9,7 @@ document.getElementById("botaoConfirmar").addEventListener("click", function() {
         event.preventDefault(); // Evita o envio do formulário
         aviso.style.display = "block"; // Mostra o aviso
     } else {
-        window.location.href = asdasd.html;
+        window.location.href = "asdasd.html";
 
     }
 });
